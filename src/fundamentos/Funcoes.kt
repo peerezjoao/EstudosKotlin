@@ -1,4 +1,4 @@
-package Fundamentos
+package fundamentos
 
 fun main() {
     println(boasVindas("James"))

@@ -1,4 +1,4 @@
-package Fundamentos
+package fundamentos
 
 fun main() {
     println("Bem vindo ao Primeiro Programa em Kotlin!")
