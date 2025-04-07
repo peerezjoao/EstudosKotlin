@@ -30,5 +30,4 @@ fun main() {
         Address("123 Fake Street", City("Springfield", "US")),
         ownsAPet = false
     )
-
 }
